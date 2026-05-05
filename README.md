@@ -10,7 +10,7 @@ This repository contains the source code and data analysis scripts for the Bache
 * `data/`: Directory containing all the quarterly price index datasets (US, UK regional, and 23 international markets).
 
 ## Requirements
-To run this code, the following libraries:
+To run this code, you will need Python 3.x and the following libraries:
 * `pandas`
 * `numpy`
 * `matplotlib`
@@ -22,4 +22,4 @@ To run this code, the following libraries:
 4. Run all cells to reproduce the results and graphs.
 
 ## Author
-* **Iván Gómez Plaza** - [Universitat de Barcelona - Facultat de Física]
+* **Iván Gómez Plaza** - Universitat de Barcelona, Facultat de Física
