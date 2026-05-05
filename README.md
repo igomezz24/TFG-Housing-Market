@@ -19,11 +19,10 @@ This repository contains the source code and data analysis scripts for the Bache
   * `23 países trimestral 1975 - 2025, Federal Reserve Bank of Dallas.csv`: Global quarterly price indices for 23 selected countries.
 
 ## Requirements
-To run this code, you need Python 3.x and the following libraries:
+To run this code, the following libraries:
 * `pandas`
 * `numpy`
 * `matplotlib`
-* `scipy` (si la usas para ajustes)
 
 ## Usage
 1. Clone the repository: `git clone https://github.com/tu-usuario/tu-repositorio.git`
